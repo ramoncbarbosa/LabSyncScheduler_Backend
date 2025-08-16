@@ -1,7 +1,5 @@
 # LabSync Scheduler Backend
 
-[🇧🇷 Ver em Português](#versao-em-portugues) | [🇺🇸 View in English](#english-version)
-
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 17">
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
@@ -12,14 +10,17 @@
   <img src="https://img.shields.io/badge/Flyway-4996d4?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway">
   <img src="https://img.shields.io/badge/Lombok-F07A5A?style=for-the-badge&logo=lombok&logoColor=white" alt="Lombok">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Spring_Data_R2DBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data R2DBC">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Data_R2DBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data R2DBC">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/OAuth2-181F26?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2">
 </p>
 
 ---
 
-### 🇧🇷 Versão em Português
+### Versão em Português
 
 Este é o backend da aplicação LabSync Scheduler, desenvolvido com **Java**, **Spring Boot WebFlux** e **Spring Data R2DBC**. O objetivo é fornecer uma API reativa, escalável e segura para gerenciar o agendamento de laboratórios, usuários e horários.
 
@@ -58,7 +59,7 @@ Para rodar o projeto localmente, siga estes passos:
 
 ---
 
-### 🇺🇸 English Version
+### English Version
 
 This is the backend for the LabSync Scheduler application, developed with **Java**, **Spring Boot WebFlux**, and **Spring Data R2DBC**. The goal is to provide a reactive, scalable, and secure API for managing lab schedules, users, and time slots.
 
